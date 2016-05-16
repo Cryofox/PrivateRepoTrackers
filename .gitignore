@@ -1,0 +1,9 @@
+# user specific gitdummy assets
+repos/
+repos.json
+
+# editors
+.idea/
+
+# miscellaneous
+.DS_Store
